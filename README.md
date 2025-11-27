@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-This is a personal **Portfolio Website** built using HTML, CSS, JavaScript, and Django (if backend features are used).  
+This is a personal **Portfolio Website** built using HTML, CSS, JavaScript, and Django .  
 It showcases skills, projects, achievements, and contact information in a clean and modern layout.
 
 🌍 **Live Deployment:**  
